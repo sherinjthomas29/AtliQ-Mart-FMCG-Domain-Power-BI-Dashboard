@@ -1,0 +1,9 @@
+├── README.md
+├── AtliQ Mart Supply Chain Dashboard.pbix  (The Power BI project file)
+├── Data/
+│   └── (assumed source data, e.g., CSV or Excel files)
+├── Images/
+│   ├── Power BI Desktop 9_1_2025 5_14_15 PM.png (Dashboard screenshots)
+│   ├── Power BI Desktop 9_1_2025 5_14_24 PM.png
+│   └── Power BI Desktop 9_1_2025 5_14_31 PM.jpg
+└── .gitignore
