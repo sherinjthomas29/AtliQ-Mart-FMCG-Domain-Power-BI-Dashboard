@@ -1,4 +1,4 @@
-**AtliQ Mart Supply Chain Analysis**
+**AtliQ Mart FMCG Analysis**
 
 📊 **Project Overview**
 
