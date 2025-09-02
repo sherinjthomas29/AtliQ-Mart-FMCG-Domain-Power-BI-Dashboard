@@ -4,6 +4,13 @@
 
 This project provides a comprehensive analysis of the supply chain and delivery performance for AtliQ Mart, a growing FMCG manufacturer. The primary objective was to diagnose the root causes of service issues, specifically focusing on the company's On-Time and In-Full (OTIF) delivery metrics. The analysis uses a Power BI dashboard to explore key performance indicators (KPIs) and identify specific bottlenecks, inconsistencies across different regions, customers, and product categories.
 ________________________________________
+**Contents**
+
+1. [Home View](https://github.com/sherinjthomas29/AtliQ-Mart-FMCG-Domain-Power-BI-Dashboard/blob/main/Home%20View.png)
+2. Order [View](https://github.com/sherinjthomas29/AtliQ-Mart-FMCG-Domain-Power-BI-Dashboard/blob/main/Order%20View.png)
+3. [Delivery View](https://github.com/sherinjthomas29/AtliQ-Mart-FMCG-Domain-Power-BI-Dashboard/blob/main/Delivery%20View.png)
+4. [Performance View](https://github.com/sherinjthomas29/AtliQ-Mart-FMCG-Domain-Power-BI-Dashboard/blob/main/Performance%20View.png)
+________________________________________
 📈 **Key Insights**
 
 Based on the analysis, the following key insights were identified:
@@ -66,8 +73,8 @@ ________________________________________
 ________________________________________
 💻 **Presentation**
 
-
-________________________________________
+[Link](https://github.com/sherinjthomas29/AtliQ-Mart-FMCG-Domain-Power-BI-Dashboard/blob/main/Presentation.pdf)
+_______________________________________
 📈 **Live Dashboard**
 
 [Link](https://app.powerbi.com/view?r=eyJrIjoiMmNkNWY2YzYtNjc0OC00NmUwLWJiOTctMjYzY2M0ZGNiNTA5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
