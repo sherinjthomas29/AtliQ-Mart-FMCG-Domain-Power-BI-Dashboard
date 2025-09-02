@@ -7,7 +7,7 @@ ________________________________________
 **Contents**
 
 1. [Home View](https://github.com/sherinjthomas29/AtliQ-Mart-FMCG-Domain-Power-BI-Dashboard/blob/main/Home%20View.png)
-2. Order [View](https://github.com/sherinjthomas29/AtliQ-Mart-FMCG-Domain-Power-BI-Dashboard/blob/main/Order%20View.png)
+2. [OrderView](https://github.com/sherinjthomas29/AtliQ-Mart-FMCG-Domain-Power-BI-Dashboard/blob/main/Order%20View.png)
 3. [Delivery View](https://github.com/sherinjthomas29/AtliQ-Mart-FMCG-Domain-Power-BI-Dashboard/blob/main/Delivery%20View.png)
 4. [Performance View](https://github.com/sherinjthomas29/AtliQ-Mart-FMCG-Domain-Power-BI-Dashboard/blob/main/Performance%20View.png)
 ________________________________________
