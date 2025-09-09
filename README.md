@@ -1,17 +1,17 @@
-**AtliQ Mart FMCG Analysis**
+# **AtliQ Mart FMCG Analysis**
 
-📊 **Project Overview**
+## 📊 **Project Overview**
 
 This project provides a comprehensive analysis of the supply chain and delivery performance for AtliQ Mart, a growing FMCG manufacturer. The primary objective was to diagnose the root causes of service issues, specifically focusing on the company's On-Time and In-Full (OTIF) delivery metrics. The analysis uses a Power BI dashboard to explore key performance indicators (KPIs) and identify specific bottlenecks, inconsistencies across different regions, customers, and product categories.
 ________________________________________
-📋 **Contents**
+## 📋 **Contents**
 
 1. [Home View](https://github.com/sherinjthomas29/AtliQ-Mart-FMCG-Domain-Power-BI-Dashboard/blob/main/Home%20View.png)
 2. [Order View](https://github.com/sherinjthomas29/AtliQ-Mart-FMCG-Domain-Power-BI-Dashboard/blob/main/Order%20View.png)
 3. [Delivery View](https://github.com/sherinjthomas29/AtliQ-Mart-FMCG-Domain-Power-BI-Dashboard/blob/main/Delivery%20View.png)
 4. [Performance View](https://github.com/sherinjthomas29/AtliQ-Mart-FMCG-Domain-Power-BI-Dashboard/blob/main/Performance%20View.png)
 ________________________________________
-📈 **Key Insights**
+## 📈 **Key Insights**
 
 Based on the analysis, the following key insights were identified:
 
@@ -27,7 +27,7 @@ Based on the analysis, the following key insights were identified:
 
 **By Product**: There are critical stock and fulfillment issues with specific products, most notably AM Butter 100, which has an extremely low In-Full rate of 5.86%.
 ________________________________________
-🛠️ **Tools & Methods**
+## 🛠️ **Tools & Methods**
    
 **Tools**:
 
@@ -47,7 +47,7 @@ ________________________________________
 
 **Diagnostic Analysis**: Drilling down into the data to uncover root causes of poor performance, such as long lead times and product-specific fulfillment issues.
 ________________________________________
-💡**Suggestions & Improvements**
+## 💡**Suggestions & Improvements**
 
 The following recommendations are provided to help AtliQ Mart improve its supply chain efficiency:
 
@@ -59,11 +59,11 @@ The following recommendations are provided to help AtliQ Mart improve its supply
 
 **Enhance Data Analytic**s: Use the current dashboard as a foundation to build predictive models for demand forecasting and implement real-time tracking to improve transparency and proactive problem-solving.
 ________________________________________
-📝 **Conclusion**
+## 📝 **Conclusion**
 
 This project successfully diagnosed the core supply chain challenges faced by AtliQ Mart, identifying that the long order processing lead time is the primary factor behind the low OTIF rate. The analysis provides actionable insights that can be used to develop targeted strategies for improving performance at the city, customer, and product levels. By addressing these key issues, AtliQ Mart can enhance its service quality and retain key customer contracts.
 ________________________________________
-**Abbreviations**
+## **Abbreviations**
 
 **LIFR** : Line In Fill Rate,
  **VOFR** : Volume In Fill Rate,
@@ -71,10 +71,10 @@ ________________________________________
  **IF**   : In Full Delivery,
  **OTIF** : On Time In Full Delivery
 ________________________________________
-💻 **Presentation**
+## 💻 **Presentation**
 
 [Link](https://github.com/sherinjthomas29/AtliQ-Mart-FMCG-Domain-Power-BI-Dashboard/blob/main/Presentation.pdf)
 _______________________________________
-📈 **Live Dashboard**
+## 📈 **Live Dashboard**
 
 [Link](https://app.powerbi.com/view?r=eyJrIjoiMmNkNWY2YzYtNjc0OC00NmUwLWJiOTctMjYzY2M0ZGNiNTA5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
